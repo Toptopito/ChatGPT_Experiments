@@ -1,0 +1,11 @@
+idx,age_low,age_high,age_range,gender,antidepressant
+0,13,19,13-19,female,Venlafaxine | Desvenlafaxine
+1,13,19,13-19,male,Sertraline | Venlafaxine
+2,20,40,20-40,female,Sertraline | Venlafaxine
+3,20,40,20-40,male,Venlafaxine | Desvenlafaxine
+4,41,64,41-64,female,Sertraline | Desvenlafaxine
+5,41,64,41-64,male,Sertraline | Venlafaxine
+6,65,79,65-79,female,Fluoxetine | Sertraline
+7,65,79,65-79,male,Sertraline | Venlafaxine
+8,80,89,80-89,female,Desvenlafaxine
+9,80,89,80-89,male,Desvenlafaxine | Venlafaxine
