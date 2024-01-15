@@ -7,11 +7,11 @@ openai.api_key = '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'
 
 model = 'text-davinci-003'
 
-validation_file_path = "C:/Users/vladc/OneDrive/Documents/GMU Research/AI Chat for Depression/Reference Files/test_validation_file.csv"
+validation_file_path = "./data/test_validation_file.csv"
 
 validation_df = pd.read_csv(validation_file_path)
 
-workbook_path = "C:/Users/vladc/OneDrive/Documents/GMU Research/AI Chat for Depression/AI Chat for Depression Tracking Sheet.xlsx"
+workbook_path = "./data/AI Chat for Depression Tracking Sheet.xlsx"
 sheet_name = "Test Cases"
 method1_result_col = 6
 start_row = 2
